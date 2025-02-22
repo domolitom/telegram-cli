@@ -1,1 +1,1 @@
-# messenger-cli
+# telegram-cli
